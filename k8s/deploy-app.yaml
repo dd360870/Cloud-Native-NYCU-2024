@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: app-container
-          image: ghcr.io/linroex/app:latest
+          image: ghcr.io/dd360870/app
           ports:
             - containerPort: 3000
           resources:
